@@ -147,7 +147,12 @@ Quatro tipos de modelos foram testados:
 
 Destes, o Random Forest apresentou melhores resultados. Seus hiperparâmetros, então, foram aprimorados. Com isso, um modelo de Random Foresto foi criado e testado, apresentando resultados satisfatórios. Este modelos, então, foi salvo e exportado.
 
-Neste projeto, aprendi muito sobre diversos aspectos da ciência de dados, como improtação de dados, limpeza de dados, avaliação de relevância dos dados, interpretação dos dados, testes de diferentes tipos de modelos, testes de diferentes hiperparâmetros, testes de qualidade de modelo, entre outros aprendizados. 
+Neste projeto, aprendi muito sobre diversos aspectos da ciência de dados, como improtação de dados, limpeza de dados, avaliação de relevância dos dados, interpretação dos dados, testes de diferentes tipos de modelos, testes de diferentes hiperparâmetros, testes de qualidade de modelo, entre outros aprendizados.
+
+O projeto apresenta-se nos seguintes Notebooks:
+
+1. [Limpeza de Dados e Definição de Funções](https://colab.research.google.com/github/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Notebooks/Projeto_Final_Funcoes_e_Limpeza_de_Dados.ipynb#scrollTo=8R1aWz6RliTz)
+2. [Análise Exploratória e Seleção do Modelos](https://colab.research.google.com/drive/15Y3QnSjN9s3WM5ZHH5DUlHRK9W-S3kYr#scrollTo=BFN_hGzE-6L_)
 
 ## 6. Possíveis Melhorias
 
