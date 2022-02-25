@@ -164,8 +164,8 @@ A pesar do modelo final apresentar características satisfatórias, diversas mel
 
 ## 7. Referências
 
-[Bootcamp DataScience Aplicada - Alura](https://bootcamps.alura.com.br/bootcamp-data-science-3)
-[scikit-learn](https://scikit-learn.org/stable/)
-[seaborn](https://seaborn.pydata.org/)
-[Vídeo sobre GridSearchCV](https://www.youtube.com/watch?v=HdlDYng8g9s&t=1s&ab_channel=codebasics)
-[Vídeo sobre AUC e ROC](https://www.youtube.com/watch?v=4jRBRDbJemM&t=79s&ab_channel=StatQuestwithJoshStarmer)
+1. [Bootcamp DataScience Aplicada - Alura](https://bootcamps.alura.com.br/bootcamp-data-science-3)
+2. [scikit-learn](https://scikit-learn.org/stable/)
+3. [seaborn](https://seaborn.pydata.org/)
+4. [Vídeo sobre GridSearchCV](https://www.youtube.com/watch?v=HdlDYng8g9s&t=1s&ab_channel=codebasics)
+5. [Vídeo sobre AUC e ROC](https://www.youtube.com/watch?v=4jRBRDbJemM&t=79s&ab_channel=StatQuestwithJoshStarmer)
