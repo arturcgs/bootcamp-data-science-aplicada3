@@ -26,7 +26,7 @@ Os Notebooks contendo o projeto apresentam-se em seguida:
 1. [Limpeza de Dados e Definição de Funções](https://colab.research.google.com/github/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Notebooks/Projeto_Final_Funcoes_e_Limpeza_de_Dados.ipynb#scrollTo=8R1aWz6RliTz)
 2. [Análise Exploratória e Seleção do Modelos](https://colab.research.google.com/drive/15Y3QnSjN9s3WM5ZHH5DUlHRK9W-S3kYr#scrollTo=BFN_hGzE-6L_)
 
-## 3. Método
+## 3. Métodos
 
 ### 3.1 Limpeza de dados
 
@@ -64,7 +64,7 @@ O modelo foi treinado no grupo treino e testado no grupo teste. Para avaliação
 
 Com resultados satisfatórios, o modelo final foi construído e exportado.
 
-## 4. Resultado e Discussão
+## 4. Resultados e Discussão
 
 ### 4.1 Análise Exploratória
 
