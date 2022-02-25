@@ -24,7 +24,7 @@ Para realização deste projeto, foi utilizado a linguagem de programação Pyth
 
 Os Notebooks contendo o projeto apresentam-se em seguida:
 1. [Limpeza de Dados e Definição de Funções](https://colab.research.google.com/github/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Notebooks/Projeto_Final_Funcoes_e_Limpeza_de_Dados.ipynb#scrollTo=8R1aWz6RliTz)
-2. [Análise Exploratória e Seleção do Modelos](https://colab.research.google.com/drive/15Y3QnSjN9s3WM5ZHH5DUlHRK9W-S3kYr#scrollTo=BFN_hGzE-6L_)
+2. [Análise Exploratória e Seleção do Modelos](https://colab.research.google.com/github/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Notebooks/Projeto_Final.ipynb)
 
 ## 3. Métodos
 
@@ -152,7 +152,7 @@ Neste projeto, aprendi muito sobre diversos aspectos da ciência de dados, como 
 O projeto apresenta-se nos seguintes Notebooks:
 
 1. [Limpeza de Dados e Definição de Funções](https://colab.research.google.com/github/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Notebooks/Projeto_Final_Funcoes_e_Limpeza_de_Dados.ipynb#scrollTo=8R1aWz6RliTz)
-2. [Análise Exploratória e Seleção do Modelos](https://colab.research.google.com/drive/15Y3QnSjN9s3WM5ZHH5DUlHRK9W-S3kYr#scrollTo=BFN_hGzE-6L_)
+2. [Análise Exploratória e Seleção do Modelos](https://colab.research.google.com/github/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Notebooks/Projeto_Final.ipynb)
 
 ## 6. Possíveis Melhorias
 
