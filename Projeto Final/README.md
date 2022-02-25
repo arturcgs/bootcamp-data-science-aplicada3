@@ -113,3 +113,54 @@ Com isso, iremos aprimorar os hiperparâmetros do RandomForest, utilizando GridS
 
 Aqui, o modelo foi treinado, com os hiperparâmetros aprimorados do Random Forest, no grupo treino e testado no grupo teste. Foi feita a matriz de confusão de curva AUC - ROC deste modelo:
 
+
+<img src="https://github.com/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Imagens/Matria%20de%20confus%C3%A3o.png?raw=true">
+
+Aqui, podemos observar como o modelo obteve:
+
+* Verdadeiro Positivo: 15
+* Verdadeiro Negativo: 32
+* Falso Positivo: 6
+* Falso Negativo: 13
+
+Neste caso, um Falso Positivo indica um paciente que não iria à UTI, mas o modelo indicou que ele iria.
+
+Já um Falso Negativo, indica um paciente que iria à UTI, mas o modelo indicou que ele não iria.
+
+A pesar de ambos serem relevantes, o Falso Negativo tem maior peso, pois ele mostra um caso em que, como o modelo indicou que o paciente não iria à UTI, o hospital pode não preparar este leito e o paciente ficar sem UTI. Neste quesito, o modelo apresentou um resultado não satisfatório e pode ser melhorado.
+
+<img src="https://github.com/arturcgs/BootcampDataScienceAplicada3/blob/main/Projeto%20Final/Imagens/Curva%20AUC%20ROC.png?raw=true">
+
+A curva AUC - ROC apresentou-se satisfatória. Idealmente, a curva passaria mais perto do ponto (0, 1). O AUC, porém, obteve um valor bom.
+
+## 5. Conclusões
+
+Neste projeto, foi utilizado um banco de dados do hospital Sírio Libanês, com dados clínicos de pacientes reais, visando a construção de um modelo que auxiliasse o hospital a entender melhor a necessidade de UTI de novos pacientes. Os dados foram limpos e organizados, pacientes não relevantes ao modelos foram excluídos, e variáveis não relevantes também foram excluídas. 
+
+O conjunto de dados foi explorado, e chegou-se a conclusão que o gênero pode influenciar na necessidade de UTI, mas a idade parece ser um fator muito mais importante.
+
+Quatro tipos de modelos foram testados:
+* Linear Regression
+* Random Forest
+* SVC
+* MLP CLassifier
+
+Destes, o Random Forest apresentou melhores resultados. Seus hiperparâmetros, então, foram aprimorados. Com isso, um modelo de Random Foresto foi criado e testado, apresentando resultados satisfatórios. Este modelos, então, foi salvo e exportado.
+
+Neste projeto, aprendi muito sobre diversos aspectos da ciência de dados, como improtação de dados, limpeza de dados, avaliação de relevância dos dados, interpretação dos dados, testes de diferentes tipos de modelos, testes de diferentes hiperparâmetros, testes de qualidade de modelo, entre outros aprendizados. 
+
+## 6. Possíveis Melhorias
+
+A pesar do modelo final apresentar características satisfatórias, diversas melhorias podem ser aplicadas neste estudo. Algumas delas incluem:
+* Análise Exploratória mais profunda, entendo melhor a relação entre as variáveis
+* Teste de mais tipos de modelos
+* Testes de maior variedade de hiperparâmetros
+* Aplicação de mais métodos de avaliação de qualidade nos modelos
+
+## 7. Referências
+
+[Bootcamp DataScience Aplicada - Alura](https://bootcamps.alura.com.br/bootcamp-data-science-3)
+[scikit-learn](https://scikit-learn.org/stable/)
+[seaborn](https://seaborn.pydata.org/)
+[Vídeo sobre GridSearchCV](https://www.youtube.com/watch?v=HdlDYng8g9s&t=1s&ab_channel=codebasics)
+[Vídeo sobre AUC e ROC](https://www.youtube.com/watch?v=4jRBRDbJemM&t=79s&ab_channel=StatQuestwithJoshStarmer)
